@@ -1,7 +1,6 @@
 remote_theme : y7kim/agency-jekyll-theme
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
-
+url: "https://SeunpilKim.github.io"
+baseurl:""
 # Site settings
 title: Awesome Title
 email: your-email@domain.com
